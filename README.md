@@ -1,4 +1,4 @@
-jclouds-labs-cli
+abiquo-cli
 ================
 
-jclouds-labs-cli is a command line tool that allows you to interact with jclouds LABS part of the library
+abiquo-cli is a command line tool that allows you to interact with a provider that exposes an abiquo API. It uses the jclouds (LABS) library.
